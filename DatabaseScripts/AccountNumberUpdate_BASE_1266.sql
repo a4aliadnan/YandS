@@ -111,9 +111,3 @@ AccountNumber = '3901-070808-002'
 WHERE
 LinkId = 18;
 
-/* Changed by I am cliund developer */
-
-
-/* UPDATE QUERY NO: 19 */
-
-

@@ -110,10 +110,10 @@ SET
 AccountNumber = '3901-070808-002'
 WHERE
 LinkId = 18;
-
+<<<<<<< HEAD
 /* Changed by I am cliund developer */
-
+=======
 
 /* UPDATE QUERY NO: 19 */
 
-
+>>>>>>> 021c99944b3db485d98145d9c21f412812fdf36c
